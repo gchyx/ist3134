@@ -11,6 +11,7 @@ The MapReduce implementation is organized into multiple folders based on differe
 - **byLowReview**
 - **byHighReview**
 - **byCategory**
+
 Each of these category folders contains the following:
 A "**_mapper_**" folder, which includes the Python scripts for the Mapper and Reducer processes.
 A **_data cleaning Python script_**_, which is placed outside the "mapper" folder. This script is used to clean and prepare the data before running the MapReduce job.
