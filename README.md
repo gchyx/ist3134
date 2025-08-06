@@ -28,5 +28,8 @@ This section contains two folders:
 - A folder with the top 100 sorted words by frequency files.
 - A word count folder with files containing raw counts of all the words found in the dataset.
 
+### Datasets Used
 This onedrive link contains the datasets used for the assignment:
 https://imailsunwayedu-my.sharepoint.com/:f:/g/personal/19101153_imail_sunway_edu_my/EuMq0bkIpQJGnRaeWBjPS_4BvFYuaLY55x4p4G45XrmPpQ?e=P2OQv2
+
+The main datasets used in this assignment: 'Amazon_Fashion.jsonl' and 'meta_Amazon_Fashion.jsonl' are sourced from: https://amazon-reviews-2023.github.io/
